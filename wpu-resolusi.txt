@@ -1,4 +1,7 @@
 WPU RESOLUSI
 - Konsisten untuk belajar pemrogramman dari dasar
+  > Kuasai HTML dari dasar
+  > Kuasai CSS dari dasar
+  > Kuasai Javascript dari dasar
 - Membuat 1 website sendiri dan mengembangkannya
 - Menganalisis website saya sendiri
